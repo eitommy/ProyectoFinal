@@ -1,5 +1,7 @@
+css/styles.css  
 .DS_Store
 Thumbs.db
+*.log
 
 .vscode/
 
