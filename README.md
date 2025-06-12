@@ -4,7 +4,7 @@ Este es mi Proyecto Final del curso, un sitio web completo desarrollado con HTML
 
 ## 🚀 Link al sitio
 
-👉 (https://classy-kringle-f4d2f5.netlify.app)
+👉 https://tiendanova.netlify.app/
 
 ## 📁 Secciones del sitio
 
